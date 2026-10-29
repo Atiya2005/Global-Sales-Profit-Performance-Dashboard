@@ -1,4 +1,4 @@
-**Global Sales & Profit Performance Dashboard**
+## Global Sales & Profit Performance Dashboard
 
 ## 📊 Project Overview
 An interactive Power BI dashboard designed to analyze global sales and profit performance. The dashboard helps explore sales trends, product performance, category-wise sales, and customer segment contributions through interactive visualizations.
